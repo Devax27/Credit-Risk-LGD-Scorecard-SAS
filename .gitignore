@@ -1,0 +1,13 @@
+# Raw and generated datasets
+*.csv
+*.xlsx
+*.xls
+*.sas7bdat
+
+# SAS logs and temporary files
+*.log
+*.lst
+
+# Operating system files
+.DS_Store
+Thumbs.db
